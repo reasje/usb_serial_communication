@@ -9,3 +9,7 @@
 
 - update README.md file.
 - update LICENSE file.
+
+## [0.0.3] - 2024-11-24
+
+- fix README.md file.

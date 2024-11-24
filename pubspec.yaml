@@ -1,6 +1,6 @@
 name: usb_serial_communication
 description: "A new Flutter plugin about usb serial communication"
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/Moein-dev/usb_serial_communication
 
 environment:
